@@ -1,2 +1,3 @@
 # mergeconflict
-I typed something locally 
+
+I typed something 
